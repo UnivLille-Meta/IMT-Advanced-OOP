@@ -14,9 +14,13 @@ Follow the guided instructions of Chapter 7 from the [exercice book](http://rmod
 
 ## Exercice 4-14-2: Stone-paper-scissors-lizard-spock
 
-New rules: extend the stone-paper-scissors game from exercices 4-14-1 with lizard and spock.
+New rules: extend the stone-paper-scissors game from exercices 4-14-1 with lizard and spock:
+
+![spock](spock.png)
 
 You can find the detailed exercice [slide 24](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-1-DoubleDispatch-01-StoneExercise.pdf).
+
+
 
 ## Exercice 4-14-3: A little expression interpreter
 
