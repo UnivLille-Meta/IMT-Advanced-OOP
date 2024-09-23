@@ -5,14 +5,14 @@ The objectives of these exercises are to practice concepts covered in the lectur
 There are no explicit exercise about tests: remember that testing should be reflex.
 In the following exercices, you must therefore take the initiative of building tests.
 
-## Exercice 4-14-1: Stone-paper-scissors
+## Exercice 14-10-1: Stone-paper-scissors
 
 You will build a small text-based stone-paper-scissors game.
 
 Follow the guided instructions of Chapter 7 from the [exercice book](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf).
 
 
-## Exercice 4-14-2: Stone-paper-scissors-lizard-spock
+## Exercice 14-10-2: Stone-paper-scissors-lizard-spock
 
 New rules: extend the stone-paper-scissors game from exercices 4-14-1 with lizard and spock:
 
@@ -22,7 +22,7 @@ You can find the detailed exercice [slide 24](http://rmod-pharo-mooc.lille.inria
 
 
 
-## Exercice 4-14-3: A little expression interpreter
+## Exercice 14-10-3: A little expression interpreter
 
 You will build a small mathematical expression interpreter, such as `(3 + 4) * 5`.
 
