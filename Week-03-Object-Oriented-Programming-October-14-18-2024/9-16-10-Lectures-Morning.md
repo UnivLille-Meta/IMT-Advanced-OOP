@@ -1,4 +1,4 @@
-# Lecture 5 - Messages, tests, double dispatch
+# Lecture 5 - Objects and data
 **Teacher**: [Sebastian Jordan Montano](https://github.com/jordanmontt)
 
 **Date** Wednesday 17th october, 2024. 8h30 - 11h45.

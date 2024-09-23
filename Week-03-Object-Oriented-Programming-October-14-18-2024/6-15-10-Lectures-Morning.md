@@ -1,4 +1,4 @@
-# Lecture 3 - Messages, tests, double dispatch
+# Lecture 3 - More double dispatch
 **Teacher**: [Steven Costiou](https://kloum.io/costiou)
 
 **Date** Tuesday 15th october, 2024. 8h30 - 11h45
