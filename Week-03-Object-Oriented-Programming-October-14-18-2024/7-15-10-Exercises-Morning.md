@@ -1,3 +1,7 @@
+**Teacher**: [Steven Costiou](https://kloum.io/costiou)
+
+**Date** Tuesday 15th october, 2024. 8h30 - 11h45
+
 # Exercises
 
 The objectives of these exercises are to practice concepts covered in the lectures.

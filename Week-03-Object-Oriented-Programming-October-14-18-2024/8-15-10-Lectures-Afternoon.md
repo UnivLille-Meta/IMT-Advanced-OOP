@@ -1,7 +1,7 @@
-# Lecture 2 - Messages, tests, double dispatch
+# Lecture 4 - Messages, tests, double dispatch
 **Teacher**: [Sebastian Jordan Montano](https://github.com/jordanmontt)
 
-**Date** Tuesday 15th october, 2024. 13h - 18h
+**Date** Tuesday 15th october, 2024. 13h - 18h.
 
 ## Objectives
 

@@ -1,6 +1,8 @@
 # Lecture 1 - Introduction
 **Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
 
+**Date** Thursday 3d october, 2024. 14h - 17h.
+
 ## Introduction to Pharo
 This week, you will be introduced to Pharo.
 You will learn:

@@ -1,7 +1,7 @@
 # Lecture 2 - Messages, tests, double dispatch
 **Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
 
-**Date** Monday 14th october, 2024
+**Date** Monday 14th october, 2024. 13h - 18h.
 
 ## Objectives
 

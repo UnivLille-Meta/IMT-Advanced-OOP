@@ -1,3 +1,7 @@
+**Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
+
+**Date** Monday 14th october, 2024. 13h - 18h.
+
 # Exercises
 
 The objectives of these exercises are to practice concepts covered in the lectures.

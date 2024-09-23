@@ -1,3 +1,7 @@
+**Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
+
+**Date** Thursday 3d october, 2024. 14h - 17h.
+
 # Exercises
 
 The objectives of these exercises are to get acquainted to the Pharo programming language.
