@@ -1,5 +1,5 @@
 # Lecture 1 - Introduction
-**Teacher**: ![Stéphane Ducasse](http://stephane.ducasse.free.fr/)
+**Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
 
 ## Introduction to Pharo
 This week, you will be introduced to Pharo.
@@ -28,3 +28,7 @@ You might want to check the [authentication credentials](https://github.com/phar
 Check 
 [the wiki](https://github.com/pharo-open-documentation/pharo-wiki) and the [online documentation](https://github.com/pharo-open-documentation/awesome-pharo).
 Lots of interesting things there.
+
+## Agenda
+
+![img](/Week-01-Introduction-October-3-4-2024/week-01-agenda.png)
