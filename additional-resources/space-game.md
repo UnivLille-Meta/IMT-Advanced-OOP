@@ -91,6 +91,52 @@ The battle ends as the defending fleet has been destroyed.
 ## Attacking Fleet Damage Formula
 
 ## Ships
+We consider the following ships: fighter, cruiser, destroyer, and battle cruiser.
+
+### Fighter
+Small ship designed to harass bigger ships.
+Extremely weak allow, but beware of the swarm.
+- Shields : 100
+- Hull: 400
+- Damage: 50
+
+Fighter shields are sensible to high radiation from deep space.
+When in deep space, their shield is set to 0.
+Because they are close-combat ships they have increased precision in nebulas.
+When fighting in nebulas, other ships take double damage from fighters.
+However, their weapons cannot penetrate destroyers and battle cruisers shields.
+
+### Cruiser
+Everything is in the name.
+Medium-sized battleship.
+
+- Shields : 1000
+- Hull: 8000
+- Damage: 400
+
+Cruisers shields are state of the art technology. 
+They are not affected by deep space radiation.
+Their targeting sensors are also of top quality and do not lose precision when fighting in nebulas.
+
+### Destroyer
+
+Deadly warships equipped for one-to-one combat with other ships.
+
+- Shields : 5000
+- Hull: 10000
+- Damage: 2000
+
+Destroyer shields are divided by 2 in deep space, due to elevated radiation levels.
+Their precision sensors always inflict 100% damage.
+However, they are ship-killers, and have specialized weaponry: they inflict double damage on shields and half damage on hulls.
+
+### Battle Cruiser
+Heavy warship. Just good in battle in any region of space.
+
+- Shields : 12000
+- Hull: 6000
+- Damage: 1000
+
 
 ## Regions of space
 
