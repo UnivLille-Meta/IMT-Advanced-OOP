@@ -34,6 +34,7 @@ Note: we want to know exactly where the lookup goes.
 
 ## Exercice 15-10-3: Logical gates
 
-TBD
+In this exercice, you will build a simulation of logical signals that go throug logical gates to turn devices on and off.
 
+Follow the [Signals and Gates](/additional-resources/exercise-signals-and-gates.pdf) exercise.
 
