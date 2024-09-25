@@ -85,6 +85,12 @@ F2 takes damage:
 
 The battle ends as the defending fleet has been destroyed.
 
+## Battle Outcome
+After each battle, a summarry statistics describes:
+* How many ships the attacker lost,
+* how many ships the defender lost,
+* how many ships remain in both sides.
+
 ## Defending Fleet Damage Formula
 
 It is the damage taken by the defending fleet from the fire from the attacking fleet.
@@ -171,7 +177,7 @@ What is known as standard space: if people live here, it represent no particular
 #### Asteroid field
 Asteroids everywhere.
 Fighters are kings there, they cannot be locked by destroyers and battlecruisers.
-Cruisers are the only battleship that can engage in asteroid fields, but they lose shield and hull capacity and therefore take 75% additional damage to shields and hull.
+Cruisers are the only battleship that can engage in asteroid fields, but they lose shields and hull capacity and therefore take 75% additional damage to shields and hull.
 Cruisers can hardly target other ships, and do 50% reduced damage.
 Destroyers and battlecruisers can only fire from outside the field, and have 90% reduced damage.
 
@@ -187,3 +193,17 @@ Each unit has is impacted differently.
 
 ## Tests
 
+You should at least implement tests for the following scenarios. 
+For simplicity, we only consider fleets composed of similar ships.
+
+1) Make a fleet of 1 fighter attack a fleet of 1 fighter.
+The fighters are fighting in an inhabited solar system.
+2) Make a fleet of 2 fighters attack a fleet of 1 battlecruiser.
+The fighters and the battlecruiser are fighting in an inhabited solar system.
+3) Make a fleet of 20 fighters attack a fleet of 1 battlecruiser.
+The fighters and the battlecruiser are fighting in an inhabited solar system.
+4) Make a fleet of 5 destroyers attack a fleet of 3 battlecruisers.
+The destroyers attack from deep space but battlecruisers are located in a nebula.
+5) Make a fleet of 10 cruisers attack a fleet of 3 battlecruisers.
+The cruisers attack from an asteroids fields but battlecruisers are located in deep space.
+6) Make a fleet of 50 fighters attack a fleet of 5 destroyers and 2 cruisers in an asteroid field.
