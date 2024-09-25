@@ -19,6 +19,8 @@ At the end of this exercise, you will obtain a base model of the civilization ga
 
 Follow the instructions of Chapter 14 from the [exercice book](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf).
 
-## Exercice 16-10-5: Project alternative (Space Game)
+## Exercice 16-10-5: Project core (Space Game)
 
-TBD
+We are now going to do a space game version of the Civilization game.
+The result of this exercise will serve as a core basis for the graded project.
+Follow the [instructions](../additional-resources/space-game.md)!
