@@ -6,7 +6,7 @@ For next week's lecture, you need to do the following tasks.
 If not done already, [read all PDFs and watch all videos](./1-Lectures.md). 
 
 ## Finish the guided exercices
-If not already, finish all guided ![exercises](./2-Exercises.md): ProfStef, the counter and the DSL.
+If not already, finish all guided [exercises](./S02-03-10-Exercises.md): ProfStef, the counter and the DSL.
 These are guided exercises, this is easy work.
 
 
