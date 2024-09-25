@@ -87,15 +87,38 @@ The battle ends as the defending fleet has been destroyed.
 
 ## Defending Fleet Damage Formula
 
+It is the damage taken by the defending fleet from the fire from the attacking fleet.
+
+The formula for calculating the damage is the following:
+
+$$ Dd = \sum_{k=1}^n (Ap_k Atm_k + Dti) $$
+
+where:
+* $n$ is the total number of ships in the attacking fleet.
+* $Ap_k$ is the attack power of the $k^{th}$ ship of the fleet.
+* $Atm_k$ is the defense/attack type combination modifier. This value depends on the combination of the types of defending and attacking ships. Some units have benefits when fighting attacking other units. For example, a fighter attacking a destroyer cannot penetrate the destroyer's shield.
+* $Dti$ The combat is performed in the region occupied by the defending unit. Each region provides its own defense/attack modifier, also depending on the ships.
 
 ## Attacking Fleet Damage Formula
+
+It is the damage taken by the attacking fleet from the back fire from the defending fleet.
+
+The formula for calculating the damage is the following:
+
+$$ As = \sum_{k=1}^m (Dp_k Dtm_k + Ati) $$
+
+where:
+* $m$ is the total number of ships in the defending fleet.
+* $Dp_k$ is the attack power of the $k^{th}$ ship of the fleet.
+* $Dtm_k$ is the defense/attack type combination modifier. This value depends on the combination of the types of defending and attacking ships. Some units have benefits when defending against other units. For example, a battlecruiser takes double damage on its shields from attacks comming from a destroyer.
+* $Ati$ The combat is performed in the region occupied by the attacking unit. Each region provides its own defense/attack modifier, also depending on the ships.
 
 ## Ships
 We consider the following ships: fighter, cruiser, destroyer, and battle cruiser.
 
 ### Fighter
 Small ship designed to harass bigger ships.
-Extremely weak allow, but beware of the swarm.
+Extremely weak allone, but beware of the swarm.
 - Shields : 100
 - Hull: 400
 - Damage: 50
@@ -108,7 +131,7 @@ However, their weapons cannot penetrate destroyers and battle cruisers shields.
 
 ### Cruiser
 Everything is in the name.
-Medium-sized battleship.
+Medium-sized, a reliable and versatile battleship.
 
 - Shields : 1000
 - Hull: 8000
@@ -139,6 +162,28 @@ Heavy warship. Just good in battle in any region of space.
 
 
 ## Regions of space
+
+We consider five regions with different properties:
+
+#### Inhabited solar system
+What is known as standard space: if people live here, it represent no particular danger.
+
+#### Asteroid field
+Asteroids everywhere.
+Fighters are kings there, they cannot be locked by destroyers and battlecruisers.
+Cruisers are the only battleship that can engage in asteroid fields, but they lose shield and hull capacity and therefore take 75% additional damage to shields and hull.
+Cruisers can hardly target other ships, and do 50% reduced damage.
+Destroyers and battlecruisers can only fire from outside the field, and have 90% reduced damage.
+
+#### Nebula
+
+Nebulas affect targeting systems and ships lose accuracy (there fore in damage) when firing at other ships. 
+Each unit has is impacted differently.
+
+#### Deep space
+
+Deep space radiations affect shields efficiency. 
+Each unit has is impacted differently.
 
 ## Tests
 
