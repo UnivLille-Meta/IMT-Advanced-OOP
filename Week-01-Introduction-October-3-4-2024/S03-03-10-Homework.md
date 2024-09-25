@@ -3,7 +3,7 @@
 For next week's lecture, you need to do the following tasks.
 
 ## Follow all lectures
-If not done already, [read all PDFs and watch all videos](./1-Lectures.md). 
+If not done already, [read all PDFs and watch all videos](./S01-03-10-Lectures.md). 
 
 ## Finish the guided exercices
 If not already, finish all guided [exercises](./S02-03-10-Exercises.md): ProfStef, the counter and the DSL.
