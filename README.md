@@ -11,26 +11,26 @@ These lectures are based on the excellent MOOC: [The Advanced Object-Oriented De
 
 [0-2024-AboutIMTLecture.pdf](0-2024-AboutIMTLecture.pdf)
 
-- **[S01 - S03] - 03/10/24 - 14h-17h (remote).** Introduction to Pharo and unit testing.
-- **[S04 - S06] - 10/10/24 - 14h-17h (remote).** Debugging with Pharo.
-- **[S07 - S08] - 14/10/24 - 13h-18h.** Messages and double dispatch.
-- **[S09 - S10] - 15/10/24 - 8h30-11h45.** Deeper in double dispatch.
-- **[S11] - 15/10/24 - 13h-18h.** Design patterns.
-- **[S12 - S13] - 16/10/24 - 8h30-11h45.** Data and objects.
-- **[S14] - 16/10/24 - 13h-18h.** Introduction to the graded project.
-- **[S15] - 17/10/24 - 8h30-11h45.** Pharo Graphics: introduction to Bloc.
-- **[S16] - 18/10/24 - 8h30-11h45.** Deeper in Bloc.
-- **[S17] - 15/10/24 - 13h-18h.** Project.
-- **[S18] - 21/10/24 - 8h30-11h45.** Video board games architectures.
-- **[S19] - 21/10/24 - 13h-18h.** Video board games architectures.
-- **[S20 - S21] - 31/10/24 - 14h-17h (remote).** Globals and Singleton, project.
-- **[S22 - S23] - 07/11/24 - 14h-17h (remote).** Project.
-- **[S24] - 12/11/24 - 8h30-11h45.** Coupling and typing, project.
-- **[S25] - 12/11/24 - 13h-18h.** Project.
-- **[S26] - 13/11/24 - 8h30-11h45.** Flyweight pattern, project.
-- **[S27] - 13/11/24 - 13h-18h.** Project.
-- **[S28] - 14/11/24 - 13h-18h.** Project presentation (evaluation).
-- **[S29] - 15/11/24 - 8h30-11h45.** Exam (evaluation).
+- **[S01 - S03] - 03/10/24 - 14h-17h (remote).** [Introduction to Pharo and unit testing](/Week-01-Introduction-October-3-4-2024/S01-03-10-Lectures.md).
+- **[S04 - S06] - 10/10/24 - 14h-17h (remote).** [Debugging with Pharo](/Week-02-Debugging-10-11-2024/S04-10-10-Lectures.md).
+- **[S07 - S08] - 14/10/24 - 13h-18h.** [Messages and double dispatch](/Week-03-Object-Oriented-Programming-October-14-18-2024/S07-14-10-Lectures.md).
+- **[S09 - S10] - 15/10/24 - 8h30-11h45.** [Deeper in double dispatch](/Week-03-Object-Oriented-Programming-October-14-18-2024/S09-15-10-Lectures-Morning.md).
+- **[S11] - 15/10/24 - 13h-18h.** [Design patterns](/Week-03-Object-Oriented-Programming-October-14-18-2024/S11-15-10-Lectures-Afternoon.md).
+- **[S12 - S13] - 16/10/24 - 8h30-11h45.** [Data and objects](/Week-03-Object-Oriented-Programming-October-14-18-2024/S12-16-10-Lectures-Morning.md).
+- **[S14] - 16/10/24 - 13h-18h.** [Introduction to the graded project](/Week-03-Object-Oriented-Programming-October-14-18-2024/S14-16-10-Exercises-Afternoon.md).
+- **[S15] - 17/10/24 - 8h30-11h45.** [Pharo Graphics: introduction to Bloc](/Week-03-Object-Oriented-Programming-October-14-18-2024/S15-17-10-Exercises-Morning.md).
+- **[S16] - 18/10/24 - 8h30-11h45.** [Deeper in Bloc](/Week-03-Object-Oriented-Programming-October-14-18-2024/S16-18-10-Exercises-Morning.md).
+- **[S17] - 15/10/24 - 13h-18h.** [Project](/Week-03-Object-Oriented-Programming-October-14-18-2024/S17-18-10-Exercises-Afternoon.md).
+- **[S18] - 21/10/24 - 8h30-11h45.** [Video board games architectures](/Week-04-Video-Games-Architectures-October-21-2024/S18-21-10-Lectures-Morning.md).
+- **[S19] - 21/10/24 - 13h-18h.** [Video board games architectures](/Week-04-Video-Games-Architectures-October-21-2024/S19-21-10-Lectures-Afternoon.md).
+- **[S20 - S21] - 31/10/24 - 14h-17h (remote).** [Globals and Singleton, project](/Week-05-Globals-and-Project-October-31-2024/S20-31-10-Lectures.md).
+- **[S22 - S23] - 07/11/24 - 14h-17h (remote).** [Project](/Week-06-Project-November-7-8-2024/S22-07-11-Lectures.md).
+- **[S24] - 12/11/24 - 8h30-11h45.** [Coupling and typing, project](/Week-07-Project-November-11-15-2024/S24-12-11-Lectures-Morning.md).
+- **[S25] - 12/11/24 - 13h-18h.** [Project](/Week-07-Project-November-11-15-2024/S25-12-11-Lectures-Afternoon.md).
+- **[S26] - 13/11/24 - 8h30-11h45.** [Flyweight pattern, project](/Week-07-Project-November-11-15-2024/S26-13-11-Lectures-Morning.md).
+- **[S27] - 13/11/24 - 13h-18h.** [Project](/Week-07-Project-November-11-15-2024/S27-13-11-Lectures-Afternoon.md).
+- **[S28] - 14/11/24 - 13h-18h.** [Project presentation (evaluation)](/Week-07-Project-November-11-15-2024/S28-14-11-Lectures-Afternoon.md).
+- **[S29] - 15/11/24 - 8h30-11h45.** [Exam (evaluation)](/Week-07-Project-November-11-15-2024/S29-15-11-Exam-Morning.md).
 
 ## Course Material
 
@@ -44,7 +44,7 @@ All slides, videos, and tutorials are available in (or linked from) this reposit
 This course proposes a series of theoretical lectures and practical exercises.
 Modules are divided into weeks, each in a different folder, and you will find the theory and practice in that folder.
 To pass this course you will need to:
- - pass the exams (see **[NEED AN AGENDA]**)
+ - pass the [exam](/Week-07-Project-November-11-15-2024/S29-15-11-Exam-Morning.md)
  - do at minimum **all** the homework in the exercises (file *Exercises.md* in each folder)
  - watch all the videos of the lectures not done during the lectures (yes there are videos for 99% of the support)
  - write (short) weekly reports to tell us about your activity. Remember, focus on the important things, and show us that you are learning.
@@ -86,13 +86,11 @@ Groups
 ```
 
 ### Grading
-**[TO BE DEFINED]**
 
 You are going to be graded on
-- Exam 1 (individually)
-- Exam 2 (individually)
-- Weekly Reports (individually)
-- Practical Project (in group)
+- Practical project (individually or in group): 50% of the grade
+- Exam (individually): 40% of the grade
+- Weekly Reports (individually): 10% of the grade
 - **Bonus:** Getting contact with the community to ask questions and help (discord, mailing lists).
 
 Your final grade will be a weighted average of all these grades.
