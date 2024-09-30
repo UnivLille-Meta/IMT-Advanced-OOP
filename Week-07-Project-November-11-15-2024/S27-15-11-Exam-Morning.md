@@ -1,4 +1,4 @@
-# Lecture 9 - Exam
+# Lecture 15 - Exam
 **Teacher**: [Steven Costiou](https://kloum.io/costiou)
 
 **Date** Thursday 15th november, 2024. 8h30 - 11h45.

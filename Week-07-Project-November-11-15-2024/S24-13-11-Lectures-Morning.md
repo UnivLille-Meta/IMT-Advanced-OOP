@@ -8,8 +8,8 @@ A lecture about instance-specific possibilities and how to organize your objects
 You will then continue working on your project.
 
 ## Materials
-- M8-2 Sharing with instance specific possibilities
-- M8-5 Flyweight
+- M8-2 [Sharing with instance specific possibilities](https://advanced-design-mooc.pharo.org/#module8)
+- M8-5 [Flyweight](https://advanced-design-mooc.pharo.org/#module8)
 
 ## Agenda
 

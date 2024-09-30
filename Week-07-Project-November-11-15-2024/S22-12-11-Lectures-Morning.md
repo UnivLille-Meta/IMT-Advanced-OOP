@@ -8,8 +8,8 @@ A lecture about how objects are coupled with each other, and on subclassing and 
 You will then continue working on your project.
 
 ## Materials
-- M9-1 About coupling and encapsulation
-- M10-2 Subclassing and subtyping
+- M9-1 [About coupling and encapsulation](https://advanced-design-mooc.pharo.org/#module9)
+- M10-2 [Subclassing and subtyping](https://advanced-design-mooc.pharo.org/#module10)
 
 ## Agenda
 
