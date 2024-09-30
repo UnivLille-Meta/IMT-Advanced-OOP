@@ -3,7 +3,7 @@
 
 **Date** Thursday 3d october, 2024. 14h - 17h.
 
-## Introduction to Pharo
+## Introduction to Pharo and Xtreme Test-Driven Design
 This week, you will be introduced to Pharo.
 You will learn:
 
@@ -14,7 +14,7 @@ You will learn:
 - A live coding session illustrating Xtreme Test-Driven Design
 - A first key lecture: "Sending a message is making a choice"
 
-The course introduction is here: https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/0-2023-AboutLecture.pdf
+The course introduction is here: [ About IMT Advanced Object-Oriented Design Lecture ](0-2024-AboutIMTLecture.pdf)
 
 ## Videos of the lectures
 The lectures are here (**check the PDFs, watch the videos**):  
@@ -22,7 +22,7 @@ The lectures are here (**check the PDFs, watch the videos**):
 - Watch Module 0 of [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
 - Watch Module 2 of [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
 
-Of course this lectures has a lot of excellent materials and you can watch what you want in addition.
+This course has a lot of excellent materials and you can watch what you want in addition.
 
 ## Git related resources
 

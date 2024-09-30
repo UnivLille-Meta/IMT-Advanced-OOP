@@ -9,6 +9,7 @@ These lectures are based on the excellent MOOC: [The Advanced Object-Oriented De
 
 ## Complete Program
 
+[0-2024-AboutIMTLecture.pdf](0-2024-AboutIMTLecture.pdf)
 
 - **[S01 - S03] - 03/10/24 - 14h-17h (remote).** Introduction to Pharo and unit testing.
 - **[S04 - S06] - 10/10/24 - 14h-17h (remote).** Debugging with Pharo.
@@ -28,7 +29,7 @@ These lectures are based on the excellent MOOC: [The Advanced Object-Oriented De
 All slides, videos, and tutorials are available in (or linked from) this repository.
 
 - Pdfs and videos are hosted under https://advanced-design-mooc.pharo.org
-- Exercises are here http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf
+- Exercises are here [http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf)
 
 ## Course Contract
 
