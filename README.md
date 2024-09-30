@@ -20,9 +20,17 @@ These lectures are based on the excellent MOOC: [The Advanced Object-Oriented De
 - **[S14] - 16/10/24 - 13h-18h.** Introduction to the graded project.
 - **[S15] - 17/10/24 - 8h30-11h45.** Pharo Graphics: introduction to Bloc.
 - **[S16] - 18/10/24 - 8h30-11h45.** Deeper in Bloc.
-- **[S17] - 15/10/24 - 13h-18h.** Project?
-
-
+- **[S17] - 15/10/24 - 13h-18h.** Project.
+- **[S18] - 21/10/24 - 8h30-11h45.** Video board games architectures.
+- **[S19] - 21/10/24 - 13h-18h.** Video board games architectures.
+- **[S20 - S21] - 31/10/24 - 14h-17h (remote).** Globals and Singleton, project.
+- **[S22 - S23] - 07/11/24 - 14h-17h (remote).** Project.
+- **[S24] - 12/11/24 - 8h30-11h45.** Coupling and typing, project.
+- **[S25] - 12/11/24 - 13h-18h.** Project.
+- **[S26] - 13/11/24 - 8h30-11h45.** Flyweight pattern, project.
+- **[S27] - 13/11/24 - 13h-18h.** Project.
+- **[S28] - 14/11/24 - 13h-18h.** Project presentation (evaluation).
+- **[S29] - 15/11/24 - 8h30-11h45.** Exam (evaluation).
 
 ## Course Material
 

@@ -1,7 +1,7 @@
 # Lecture 11 - Project
 **Teacher**: [Sebastian Jordan Montano](https://github.com/jordanmontt)
 
-**Date** Tuesday 12th november, 2024. 8h30 - 11h45.
+**Date** Tuesday 12th november, 2024. 13h-18h.
 
 ## Objectives
 
