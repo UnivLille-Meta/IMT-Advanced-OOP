@@ -5,4 +5,4 @@
 
 ## Exercice 18-10-1: Project
 
-TBD
+During this session, we will start the graded project.
