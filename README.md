@@ -1,8 +1,8 @@
-This is the repository of the Advanced Object-Oriented Programming lectures done by S. Ducasse, S. Jordan Montano and S. Costiou at IMT Lille/Douai **[<= THAT CORRECT?]**. 
+This is the repository of the Advanced Object-Oriented Programming lectures done by S. Costiou, S. Jordan Montano and Stéphane Ducasse at IMT Lille.
 
 These lectures are based on the excellent MOOC [The Advanced Object-Oriented Design and Development with Pharo](https://advanced-design-mooc.pharo.org) and the [lecture materials](https://github.com/UnivLille-Meta/Miage23) given by S. Ducasse and G. Polito at the University of Lille.
 
-contact: stephane.ducasse@inria.fr / sebastian.jordan@inria.fr / steven.costiou@inria.fr
+contact:  steven.costiou@inria.fr / sebastian.jordan@inria.fr / stephane.ducasse@inria.fr
 
 Discord channel: **[DO WE HAVE ONE?]**
 
