@@ -4,7 +4,9 @@ These lectures are based on the excellent MOOC [The Advanced Object-Oriented Des
 
 contact:  steven.costiou@inria.fr / sebastian.jordan@inria.fr / stephane.ducasse@inria.fr
 
-Discord channel: **[DO WE HAVE ONE?]**
+Discord channel: https://discord.gg/XTcC7xA9
+Students are strongly encouraged to ask for help on the discord server of Pharo: https://discord.gg/QewZMZa
+
 
 ## Modules
 
@@ -32,13 +34,13 @@ All slides, videos, and tutorials are available in (or linked from) this reposit
 
 ## Course Contract
 
-This course proposes a series of teorical lectures and practical exercises.
-Modules are divided in weeks, each in a different folder, and you will find the theory and practice in that folder.
+This course proposes a series of theoretical lectures and practical exercises.
+Modules are divided into weeks, each in a different folder, and you will find the theory and practice in that folder.
 To pass this course you will need to:
  - pass the exams (see **[NEED AN AGENDA]**)
  - do at minimum **all** the homework in the exercises (file *Exercises.md* in each folder)
  - watch all the videos of the lectures not done during the lectures (yes there are videos for 99% of the support)
- - write (short) weekly reports to tell us your activity. Remember, focus on the important things, and show us that you are learning.
+ - write (short) weekly reports to tell us about your activity. Remember, focus on the important things, and show us that you are learning.
 
 ### Each week
 
@@ -54,8 +56,6 @@ At home:
 
 ### Make a group
 
-**[DO WE DO GROUPS WITH ONLY 10 STUDENTS?]**
-
 Some of the activities during the course require group organization.
 For example, this is the case for the practical project.
 
@@ -67,12 +67,12 @@ Put inside your group folder
  
 Make recurrent pull requests to update it.
 
-For example, imagine that Angela Davis and Ambroise Croizat are together in a group called RevolutionX.
+For example, imagine that Angela Davis and Ambroise Croizat are together in a group called G03.
 They create a directory RevolutionX.
 
 ```
 Groups
-    - Group1
+    - GG03
         - members.md (names and emails)
         - report-week01.md (one section for Angela, one for Ambroise)
         - report-week02.md (one section for Angela, one for Ambroise)
@@ -102,4 +102,45 @@ Make sure you have correct configured you authentication setup
     - change Icebergs setting, "Metacello Integration" with the value HTTPS
     ![imagen](https://user-images.githubusercontent.com/708322/197169064-c6bf0bd2-762c-4bbe-b48c-daedb2d3aeef.png)
 	- create an access token to be able to push (and make sure of giving it permissions by ticking the check boxes)
+
+### Configuring Pharo with startup action. 
+
+You can define in your preference folder a file finishing by `.st`.
+This will be automatically executed each time you start the system.
+You can place SSH or HTTPS Github configurations
+
+Here is a sample, it hides the logo to help you know if the actions have been executed. 
+You can execute this file explicitly by using the System>run startup script menu item. 
+
+```
+StartupPreferencesLoader default executeAtomicItems: {
+	StartupAction 
+		name: 'Logo' 
+		code: [ PolymorphSystemSettings showDesktopLogo: false] .
+	StartupAction 
+		name: 'Git Settings' 
+		code: [ 
+			Iceberg enableMetacelloIntegration: true.
+			IceCredentialsProvider sshCredentials
+					username: 'git';
+					publicKey: '/Users/XXX/.ssh/id_rsa.pub';
+					privateKey: '/Users/XX/.ssh/id_rsa'.
+			IceCredentialStore current
+					storeCredential: (IcePlaintextCredentials new
+					username: 'GHUSER';
+					password: 'PassWord';
+					host: 'github.com';
+					yourself).		
+
+
+			IceCredentialStore current
+				storeCredential: (IceTokenCredentials new
+					username: 'GHUSER';
+					token: 'YOUR TOKEN';
+					yourself) 
+				forHostname: 'github.com'.
+			]. 
+}.
+
+```
 
