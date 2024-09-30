@@ -15,6 +15,7 @@ Lectures are available in github:
 
 -  [Myg](https://github.com/ducasse/myg): video board games architectures.
 
+
 ## Agenda
 
 ![img](/Week-04-Video-Games-Architectures-October-21-2024/week-04-agenda.png)
