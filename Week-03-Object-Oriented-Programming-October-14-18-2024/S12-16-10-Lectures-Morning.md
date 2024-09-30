@@ -13,8 +13,10 @@ Lectures are available in video and pdf:
 
 - M3-3 [Hooks and templates](https://advanced-design-mooc.pharo.org/#module3)
 - M3-5 [Global to parameters](https://advanced-design-mooc.pharo.org/#module3)
-- M4 [Objects: state and behavior](https://advanced-design-mooc.pharo.org/#module4)
-
+- M4-1 [Methods: the elementary unit of reuse](https://advanced-design-mooc.pharo.org/#module4)
+- M4-2 [LectureObjects vs. Data - An API perspective studying the class Point](https://advanced-design-mooc.pharo.org/#module4)
+- M4-4 [LectureFat classes are bad - A large class vs. a class hierarchy](https://advanced-design-mooc.pharo.org/#module4)
+- M4-6 [LectureDecorator Design Pattern](https://advanced-design-mooc.pharo.org/#module4)
 
 ## Agenda
 
