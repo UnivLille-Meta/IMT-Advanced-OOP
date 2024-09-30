@@ -4,11 +4,12 @@
 
 # Exercises
 
-The objectives of these exercises are to get acquainted to the Pharo programming language.
+The objectives of these exercises are to get acquainted with the Pharo programming language.
 This step is important to correctly follow the rest of the lectures, which will increase in complexity and will assume that you have some mastery of the language.
 
-Of course, you will not be asked to know obscure or implementation specific details of the language.
+Of course, you will not be asked to know obscure or implementation-specific details of the language.
 But, you will need to learn how to write simple programs including:
+
 - classes and methods
 - the syntax, operator precedence
 - assignments, conditional and loops
@@ -20,7 +21,7 @@ And we need to do that efficiently.
 For that, we first need to take care of the silly obstacles like understanding the syntax.
 Later we will know how to abstract a bit more and care less about details.
 
-## Exercice 03-10-1: Install Pharo 12
+## Exercise 03-10-1: Install Pharo 12
 
 Installing Pharo 12  is easier using the Pharo launcher.
 The Pharo launcher is an application that allows you to download different versions of Pharo and managing the installation details for your platform.
@@ -38,12 +39,13 @@ After downloading everything necessary, click on the image, and click on the *La
 
 <img width="1088" alt="imagen" src="https://github.com/UnivLille-Meta/Miage23/assets/708322/c8a8a156-fb31-4b26-a083-6b4419ef0512">
 
-## Exercice 03-10-2: ProfStef interactive tutorial
+## Exercise 03-10-2: ProfStef interactive tutorial
 
 Pharo includes an interactive tutorial inside the IDE called *ProfStef*.
 You can open it from a playground that you can get in the menu *Browse > Playground*.
 A playground is like an interactive console with vitamins.
 Inside you can type any code you want and execute it by 
+
  - selecting the code you want
  - right click -> *Do it*
 
@@ -54,27 +56,30 @@ That is because *1 + 1* is an expression with a value, but it does not have any 
 If you want to see the return value of an expression, you need to do *Print it* or *Do it and go* instead.
 For more, the ProfStef tutorial will guide you through the syntax of the language and the main ways to interact with the playground.
 
-## Exercice 03-10-3: Writing classes, methods and tests
+## Exercise 03-10-3: Writing classes, methods, and tests
 
-The next step to get acquainted to Pharo is to write some *real* code (what's real anyways?).
-For that, follow the [PDF tutorial](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Counter.pdf.).
+The next step to get acquainted with Pharo is to write some *real* code (what's real anyway?).
+For that, follow the [PDF tutorial](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Counter.pdf).
 
 This tutorial will guide you on writing a `Counter` class that has `increment` and `decrement` methods using a TDD approach.
 It will also show you how to use the code browser and the debugger a bit.
 
 You may want to check the videos here: 
+
 - [Creating packages, classes and methods](https://www.youtube.com/watch?v=8Do1TjMHLAI&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=11)
 - [Creating tests](https://www.youtube.com/watch?v=FZBDNRJWpLE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=12)
 - [Alternative method creation](https://www.youtube.com/watch?v=iAPo3j_DaXE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=13)
 - [Committing the code in Git](https://www.youtube.com/watch?v=NDJv7TRhwRE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=14)
 
-Or the powerful version with [eXtrement TDD (Test driven development)](https://www.youtube.com/watch?v=K8CVAKE_9pI&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=32)
+Or the powerful version with [eXtreme TDD (Test driven development)](https://www.youtube.com/watch?v=K8CVAKE_9pI&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=32).
 
 You can check for more info on Pharo in the mooc website: http://mooc.pharo.org
 
-## Exercice 03-10-4: Crafting a domain specific language
+## Exercise 03-10-4: Crafting a domain specific language
 
-Things are getting serious.
+Things are getting serious and fun.
 You will now build a small language for rolling dice.
 
 The guided exercice is [here](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/Exo-DSL-V2.pdf).
+
+
