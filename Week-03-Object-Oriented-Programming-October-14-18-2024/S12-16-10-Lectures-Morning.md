@@ -13,7 +13,7 @@ Lectures are available in video and pdf:
 
 - M3-3 [Hooks and templates](https://advanced-design-mooc.pharo.org/#module3)
 - M3-5 [Global to parameters](https://advanced-design-mooc.pharo.org/#module3)
-- M4 [Objects: state and behavio](https://advanced-design-mooc.pharo.org/#module4)
+- M4 [Objects: state and behavior](https://advanced-design-mooc.pharo.org/#module4)
 
 
 ## Agenda

@@ -1,6 +1,6 @@
 **Teacher**: [Sebastian Jordan Montano](https://github.com/jordanmontt)
 
-**Date** Friday 18th october,  2024. 8:30h - 11:45h
+**Date** Friday 18th october,  2024. 8h30 - 11h45
 
 
 ## Exercice 17-10-4: A memory game with Bloc
