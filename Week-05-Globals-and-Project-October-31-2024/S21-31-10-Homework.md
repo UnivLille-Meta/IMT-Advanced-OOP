@@ -7,8 +7,6 @@ If not done already, [read all PDFs and watch all videos](./S20-07-11-Lectures.m
 
 ## Continue the project
 Continue your work on the project.
-Next week, we will 
-
 
 ## Report
 Prepare a short report on your current project advancement:
