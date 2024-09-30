@@ -6,22 +6,21 @@ contact: stephane.ducasse@inria.fr / sebastian.jordan@inria.fr / steven.costiou@
 
 Discord channel: **[DO WE HAVE ONE?]**
 
-## Modules
+## Complete Program
 
-**[TO BE DEFINED]**
 
-In this course, you will learn the following topics.
+- **[S01 - S03] - 03/10/24 - 14h-17h (remote).** Introduction to Pharo and unit testing.
+- **[S04 - S06] - 10/10/24 - 14h-17h (remote).** Debugging with Pharo.
+- **[S07 - S08] - 14/10/24 - 13h-18h.** Messages and double dispatch.
+- **[S09 - S10] - 15/10/24 - 8h30-11h45.** Deeper in double dispatch.
+- **[S11] - 15/10/24 - 13h-18h.** Design patterns.
+- **[S12 - S13] - 16/10/24 - 8h30-11h45.** Data and objects.
+- **[S14] - 16/10/24 - 13h-18h.** Introduction to the graded project.
+- **[S15] - 17/10/24 - 8h30-11h45.** Pharo Graphics: introduction to Bloc.
+- **[S16] - 18/10/24 - 8h30-11h45.** Deeper in Bloc.
+- **[S17] - 15/10/24 - 13h-18h.** Project?
 
-- **Module 01: Test introduction.** Unit testing. Fixtures, stimuli, assertions. Test-driven development (TDD). Extreme TDD.
-- **Module 02: OOP refresh.** Classes and methods. Method lookup. Polymorphism. `self` and `super`.
-- **Module 03: Reverse engineering.** Exploring an existing code base. Analysing source code. Abstracting details. Looking for documentation outside and inside the project. Tests as documentation.
-- **Module 04: Test Quality.** Mutation Analysis. Mutation Score. Equivalent mutants. Analysing surviving mutants.
-- **Module 05: Hook and templates.** Hooking behavior using inheritance. Template methods. Overrides and `super` sends.
-- **Module 06: Double dispatch.** Single vs. multiple dispatch. Message sends as choices. Double choices. Symmetrical and non-symmetrical double dispatch.
-- **Module 07: Visitor.** Extracting operations from class hierarchies. Double dispatch as extension mechanisms. Recursion revisited.
-- **Module 08: Composite.** Modelling complex tree-like structures using classes. Recursion revisited 2.
-- **Module 09: Inheritance.** Subclassing vs. subtyping. Inheritance vs. composition.
-- **Module 10: Types.** Dynamic vs. static message binding. Overrides vs. overwrites. The role of inheritance and interfaces in polymorphism.
+
 
 ## Course Material
 
