@@ -5,8 +5,8 @@ For next week's lecture, you need to do the following tasks.
 ## Follow all lectures
 If not done already, [read all PDFs and watch all videos](./S01-03-10-Lectures.md). 
 
-## Finish the guided exercices
-If not already, finish all guided [exercises](./S02-03-10-Exercises.md): ProfStef, the counter and the DSL.
+## Finish the guided exercises
+If not already, finish all guided [exercises](./S02-03-10-Exercises.md): ProfStef, the counter, and the DSL.
 These are guided exercises, this is easy work.
 
 
@@ -18,7 +18,7 @@ Prepare a short report on how you approached them.
 
 What is a collection and what is it used for?
 What kind of collections does Pharo standard library provide?
-How do you iterate collections and what are differences between them?
+How do you iterate collections and what are the differences between them?
 How did you find this information?
 
 Do not hesitate to add in the report code examples that you tried.
@@ -46,7 +46,7 @@ Please provide a github repository link.
 
 Pharo methods are usually small and readable.
 What rules are common to follow?
-Are there tools that show you violations to such rules?
+Are there tools that show you violations of such rules?
 
 Please show code examples that violate some rules.
 
@@ -59,12 +59,12 @@ How do you approach it?
 
 Did you ask questions in the discord channels or mailing lists?
 
-This is extra points ;)
+These are extra points ;)
 
 ## Prepare for next week
 
 Next week we will study the basics of message dispatch.
-The topics are visited in Module 1 of https://advanced-design-mooc.pharo.org/#module1
+The topics are visited in Module 1 of [https://advanced-design-mooc.pharo.org/#module1](https://advanced-design-mooc.pharo.org/#module1)
 
 - Watch the videos
 - Read the slides

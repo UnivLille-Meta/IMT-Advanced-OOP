@@ -7,16 +7,22 @@
 This week, you will be introduced to Pharo.
 You will learn:
 
-- The pharo syntax
-- How to configure Pharo for github
-- The basics of unit testing
-- How to code simple applications
-
+- Overview of the lectures
+- Check the testimonies at [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
+- Super fast overview of the Pharo syntax
+- How to configure Pharo for Github (this is explained in the README)
+- A live coding session illustrating Xtreme Test-Driven Design
+- A first key lecture: "Sending a message is making a choice"
 
 The course introduction is here: https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/0-2023-AboutLecture.pdf
 
-The lectures are here (**check the PDFs, watch the videos**):  https://advanced-design-mooc.pharo.org/#module0
+## Videos of the lectures
+The lectures are here (**check the PDFs, watch the videos**):  
 
+- Watch Module 0 of [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
+- Watch Module 2 of [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
+
+Of course this lectures has a lot of excellent materials and you can watch what you want in addition.
 
 ## Git related resources
 
@@ -27,9 +33,13 @@ The Pharo VCS, Iceberg, can be approached through a [5 minutes tutorial](https:/
 You might want to check the [authentication credentials](https://github.com/pharo-vcs/iceberg/wiki/Authentication-Credentials) page to connect to your github repositories.
 
 ## General Pharo resources
+
 Check 
-[the wiki](https://github.com/pharo-open-documentation/pharo-wiki) and the [online documentation](https://github.com/pharo-open-documentation/awesome-pharo).
-Lots of interesting things there.
+
+- [the wiki](https://github.com/pharo-open-documentation/pharo-wiki) 
+- [online documentation](https://github.com/pharo-open-documentation/awesome-pharo).
+- Lots of interesting things there. You can check what people are doing with Pharo at [https://pharo.org/success](https://pharo.org/success) the Thales wizard is used in production by Thales sales.
+
 
 ## Agenda
 
