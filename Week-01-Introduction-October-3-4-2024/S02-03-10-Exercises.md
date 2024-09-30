@@ -17,11 +17,12 @@ But, you will need to learn how to write simple programs including:
 This will also get you started with *reading* code, which will be a recurrent topic in this lecture.
 We will need to read and understand code that we did not write.
 And we need to do that efficiently.
-For that, we first need to take care of the silly obstacules like understanding the syntax.
+For that, we first need to take care of the silly obstacles like understanding the syntax.
 Later we will know how to abstract a bit more and care less about details.
 
-## Exercice 03-10-1: Install Pharo
-Installing Pharo is easier using the Pharo launcher.
+## Exercice 03-10-1: Install Pharo 12
+
+Installing Pharo 12  is easier using the Pharo launcher.
 The Pharo launcher is an application that allows you to download different versions of Pharo and managing the installation details for your platform.
 
 Go to the download page https://pharo.org/download and download the Pharo launcher.
