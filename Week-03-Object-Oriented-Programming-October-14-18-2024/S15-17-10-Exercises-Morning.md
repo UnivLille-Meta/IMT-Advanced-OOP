@@ -28,10 +28,13 @@ Do not hesitate to explore the various effects and their configuration!
 
 ![Creating a grid of elements.](/additional-resources/bloc/figures/elementsGridLights.png)
 
-## Exercise 17-10-3: Logical gates
+## Exercise 17-10-3: A first widget
+You are going to build the following widget: 
+![An integer input widget.](/additional-resources/bloc/figures/input.png)
 
-Complete the [Signals and Gates](/additional-resources/exercise-signals-and-gates.pdf) exercise by displaying the logical circuit uwing Bloc.
+To to that, follow the [Bloc widget tutorial](/additional-resources/bloc/bloc-widget-tutorial.md).
+
 
 ## Exercise 17-10-4: Logical gates
 
-Complete the [Signals and Gates](/additional-resources/exercise-signals-and-gates.pdf) exercise by displaying the logical circuit uwing Bloc.
+Complete the [Signals and Gates](/additional-resources/exercise-signals-and-gates.pdf) exercise by displaying the logical circuit using Bloc.
