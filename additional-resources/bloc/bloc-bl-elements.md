@@ -412,3 +412,13 @@ aeDrawOn: aeCanvas
 
 `BlElement` is defining a large spectrum of element functionalities. 
 The following chapters will cover layout, event handling, animations and more. 
+
+## Exercise 2: lights wall
+
+Transform your color grid to a wall of lights:
+- compose elements to add circles to the squares
+- build and add glowing effects to the circles
+
+Do not hesitate to explore the various effects and their configuration!
+
+![Creating a grid of elements.](figures/elementsGridLights.png)

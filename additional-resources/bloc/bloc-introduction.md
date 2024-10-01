@@ -120,7 +120,7 @@ An element can only be the child of a single other element.
 If an element is already added as a child in a space, trying to add that element to a new space will raise an exception. 
 One solution is to create new instances of that element to add it to another space.
 
-## Exercise 1
+## Exercise 1: color grid
 
 Create a $10\times10$ grid of squares, each with a random color, and display it in a space.
 
