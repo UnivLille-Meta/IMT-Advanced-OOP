@@ -14,6 +14,6 @@ TBD
 
 TBD
 
-## Exercice 17-10-3: Animated sprites
+## Exercice 17-10-3: Logical gates
 
-TBD
+Complete the [Signals and Gates](/additional-resources/exercise-signals-and-gates.pdf) exercise by displaying the logical circuit uwing Bloc.
