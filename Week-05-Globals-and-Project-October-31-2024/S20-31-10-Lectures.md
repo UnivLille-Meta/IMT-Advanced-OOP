@@ -7,7 +7,7 @@
 ## Objectives
 
 We will see what are global variables and how they are used.
-Then you will ontinue your work on the project.
+Then you will continue your work on the project.
 
 ## Materials
 
