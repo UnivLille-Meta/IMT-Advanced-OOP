@@ -50,7 +50,7 @@ You also have a pre-defined option, available in a single call:
 - **dashed**
 - **dashed small**
 
-![Border dash.](figures/multipletriangledash.png label=fig:borderdash width=80)
+![Border dash.](figures/multipletriangledash.png)
 
 If the path is not closed, The style extent of your border can be defined with
 
