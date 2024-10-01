@@ -1,6 +1,6 @@
 ## Building a simple widget
 
-In this chapter we will define a little widget to perform input integer with two buttons as shown in Figure *@inputFinal@*. It is inspired from the work of A. Cnokaert in the context of his internship to design the CoypuIDE (an IDE for live music) and Moofloo (a support for spectator understanding music performance). 
+In this chapter we will define a little widget to perform input integer with two buttons as shown in the Figure below. It is inspired from the work of A. Cnokaert in the context of his internship to design the CoypuIDE (an IDE for live music) and Moofloo (a support for spectator understanding music performance). 
 
 ![An integer input widget. % anchor=inputFinal&width=50](figures/input.png )
 
@@ -110,7 +110,7 @@ BlIntegerInputElement >> initialize
 	self label: 'Input'
 ```
 
-We should get now a widget similar to the one shown in Fig *@input1@*.
+We should get now a widget similar to the one shown in the Figure above.
 
 ### Adding the input representation
 
@@ -155,7 +155,7 @@ BlIntegerInputElement >> initialize
 	self label: 'Input'
 ```
 
-We should obtain now a widget similar to the one show in Fig *@input2@*.
+We should obtain now a widget similar to the one show in the following Figure:
 
 ![With a label and a value. %anchor=input2&width=50](figures/Input2.png)
 
@@ -230,8 +230,8 @@ BlIntegerInputElement >> initialize
 	self label: 'Input'
 ```
 
-We should now get a widget similar to the one shown in Fig *@input3@*.
-![With a plus button.](figures/Input3.png label=input3&width=50)
+We should now get a widget similar to the one shown in the following Figure:
+![With a plus button.](figures/Input3.png)
 
 
 ### Adding the minus button
