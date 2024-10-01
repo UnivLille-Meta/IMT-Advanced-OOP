@@ -10,3 +10,11 @@ In this guided project, you will implement a [memory game](https://books.pharo.o
 
 ![Game](memory-game.png)
 
+### Extras
+
+If you finish the game and you want to add extra features
+
+- Counter of points and turns
+- Import png for the cards (using [IconFactory](https://github.com/peteruhnak/IconFactory))
+- Add animations for the cards
+- "Cheating" feature that allows to turn all the cards by clicing in a button or a key
