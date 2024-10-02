@@ -32,3 +32,9 @@ Use the debugger to understand and explain why.
 
 ## Exercice 05-10-3:
 
+Solve the [Ammolite bug](/additional-resources/debugging/Ammolite/Ammolite.md).
+
+
+## Exercice 05-10-4:
+
+Follow the [flags exercise](/additional-resources/flags/CountriesExamples.md), in which you will manipulate all aspects of Pharo, including visualizations, HTTP clients, and [Spec](https://github.com/pharo-spec/Spec) the Pharo GUI framework.
