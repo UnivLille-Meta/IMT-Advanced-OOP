@@ -3,34 +3,23 @@
 
 **Date** Thursday 3d october, 2024. 14h - 17h.
 
-## Introduction to Pharo
-This week, you will be introduced to Pharo.
+## Introduction to debugging
+This week, you will be introduced to debugging and to the Pharo debugger.
 You will learn:
 
-- The pharo syntax
-- How to configure Pharo for github
-- The basics of unit testing
-- How to code simple applications
+- The basics of debugging
+- Some debugging horror stories
+- How to use the Pharo debugger
 
+## Lectures materials
+The debugging lectures are here (**check all the PDFss**):  
 
-The course introduction is here: https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/0-2023-AboutLecture.pdf
+- [Introduction to debugging](/additional-resources/debugging/Debugging-Introduction.pdf)
+- [Debugging basics](/additional-resources/debugging/Debugging-Basics.pdf)
+- [Horror stories](/additional-resources/debugging/Debugging_Bug_Stories.pdf.pdf)
+- The Pharo debugger [pdf](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S05-Debugging.pdf), [video](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S5-v3.mp4), and exceptions [pdf](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S04-Exceptions.pdf), [video](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S4-v3.mp4) (materials based on the excellent [Pharo MOOC](https://mooc.pharo.org/)).
 
-The lectures are here (**check the PDFs, watch the videos**):  https://advanced-design-mooc.pharo.org/#module0
-
-
-## Git related resources
-
-If you are not familiar with Git, or if you forgot and need a reminder, you can refer to the following resources https://github.com/UnivLille-Meta/Miage23/tree/2024/Resources
-
-The Pharo VCS, Iceberg, can be approached through a [5 minutes tutorial](https://github.com/pharo-vcs/iceberg/wiki/Tutorial) and is [extensively documented](https://github.com/pharo-vcs/iceberg/wiki).
-
-You might want to check the [authentication credentials](https://github.com/pharo-vcs/iceberg/wiki/Authentication-Credentials) page to connect to your github repositories.
-
-## General Pharo resources
-Check 
-[the wiki](https://github.com/pharo-open-documentation/pharo-wiki) and the [online documentation](https://github.com/pharo-open-documentation/awesome-pharo).
-Lots of interesting things there.
 
 ## Agenda
 
-![img](/Week-01-Introduction-October-3-4-2024/week-01-agenda.png)
+![img](/Week-02-Debugging-10-11-2024/week-02-agenda.png)
