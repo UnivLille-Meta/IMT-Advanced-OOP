@@ -1,4 +1,4 @@
-# Lecture 1 - Introduction
+# Lecture 1a - Introduction
 **Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
 
 **Date** Thursday 3d october, 2024. 14h - 17h.

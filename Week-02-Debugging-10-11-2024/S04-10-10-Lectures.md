@@ -1,5 +1,5 @@
-# Lecture 1 - Introduction
-**Teacher**: [Stéphane Ducasse](http://stephane.ducasse.free.fr/)
+# Lecture 1b - Introduction
+**Teacher**: [Steven Costiou](https://kloum.io/costiou)
 
 **Date** Thursday 3d october, 2024. 14h - 17h.
 
