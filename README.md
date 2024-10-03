@@ -21,8 +21,8 @@ These lectures are based on the excellent MOOC: [The Advanced Object-Oriented De
 - **[S15] - 17/10/24 - 8h30-11h45.** [Pharo Graphics: introduction to Bloc](/Week-03-Object-Oriented-Programming-October-14-18-2024/S15-17-10-Exercises-Morning.md).
 - **[S16] - 18/10/24 - 8h30-11h45.** [Deeper in Bloc](/Week-03-Object-Oriented-Programming-October-14-18-2024/S16-18-10-Exercises-Morning.md).
 - **[S17] - 15/10/24 - 13h-18h.** [Project](/Week-03-Object-Oriented-Programming-October-14-18-2024/S17-18-10-Exercises-Afternoon.md).
-- **[S18] - 21/10/24 - 8h30-11h45.** [Video board games architectures](/Week-04-Video-Games-Architectures-October-21-2024/S18-21-10-Lectures-Morning.md).
-- **[S19] - 21/10/24 - 13h-18h.** [Video board games architectures](/Week-04-Video-Games-Architectures-October-21-2024/S19-21-10-Lectures-Afternoon.md).
+- **[S18] - 21/10/24 - 8h30-11h45.** [Project](/Week-04-Project-October-21-2024/S18-21-10-Lectures-Morning.mdÒ).
+- **[S19] - 21/10/24 - 13h-18h.** [Video board games architectures](/Week-04-Project-October-21-2024/S19-21-10-Lectures-Afternoon.md).
 - **[S20 - S21] - 31/10/24 - 14h-17h (remote).** [Globals and Singleton, project](/Week-05-Globals-and-Project-October-31-2024/S20-31-10-Lectures.md).
 - **[S22 - S23] - 07/11/24 - 14h-17h (remote).** [Project](/Week-06-Project-November-7-8-2024/S22-07-11-Lectures.md).
 - **[S24] - 12/11/24 - 8h30-11h45.** [Coupling and typing, project](/Week-07-Project-November-11-15-2024/S24-12-11-Lectures-Morning.md).
