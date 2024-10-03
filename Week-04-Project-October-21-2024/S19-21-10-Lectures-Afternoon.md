@@ -1,4 +1,4 @@
-# Lecture 7 - Video board games architectures
+# Lecture 7 - Video board games architectures and project
 
 **Teacher**: [Steven Costiou](https://kloum.io/costiou)
 
@@ -6,7 +6,7 @@
 
 ## Objectives
 
-We continue on board games architectures.
+We will look at video board games architectures.
 Then we will continue on the project.
 
 ## Materials
