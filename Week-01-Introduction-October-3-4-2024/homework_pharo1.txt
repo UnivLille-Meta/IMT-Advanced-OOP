@@ -1,0 +1,62 @@
+What is a collection and what is it used for? What kind of collections does Pharo standard library provide? How do you iterate collections and what are the differences between them? How did you find this information?
+
+Une collection en Pharo est une structure de données qui permet de stocker plusieurs objets ensemble. Elle est utilisée pour organiser et manipuler des ensembles d'éléments. Les collections peuvent être de différents types en fonction des caractéristiques des éléments qu'elles contiennent (comme l'ordre ou l'unicité).
+Types de collections dans la bibliothèque standard de Pharo :
+•	Array : un tableau d'éléments avec une taille fixe.
+•	OrderedCollection : une collection ordonnée qui peut être modifiée dynamiquement.
+•	Set : une collection d'éléments uniques sans ordre particulier.
+•	Dictionary : une collection clé-valeur.
+Itération des collections : Pharo fournit des méthodes d'itération comme do:, collect:, select:, reject:. Sources d'information : La documentation de Pharo
+
+How do you write conditionals in Pharo? What is different from other programming languages? Can you think about the benefits and drawbacks of the approach? How did you find this information?
+
+Les conditionnels en Pharo sont similaires à d'autres langages, mais le style syntaxique est légèrement différent. On utilise des messages tels que ifTrue: et ifFalse: :
+
+aNumber > 10 ifTrue: [ Transcript show: 'Greater than 10' ] ifFalse: [ Transcript show: '10 or less' ].
+
+Différences avec d'autres langages : Contrairement aux langages plus classiques comme Python ou Java, Pharo repose sur l'envoi de messages, même pour les structures conditionnelles. Cela peut paraître étrange au début, mais cela correspond bien à la philosophie objet du langage.
+Avantages et inconvénients :
+•	Avantages : Une meilleure intégration dans l'approche orientée objet et une plus grande flexibilité pour créer des conditionnels complexes.
+•	Inconvénients : Cela peut rendre le code plus verbeux et nécessite un temps d'adaptation
+
+How do you write a small program with classes and methods in Pharo? Pharo is indeed, very IDE oriented and you have to get used to the tooling. How did you find this information?
+
+Création d'un programme simple : En Pharo, les classes et les méthodes sont créées via l'IDE. Voici un exemple simple d'une classe représentant une personne :
+
+Object subclass: Person [
+    Person >> name [
+        ^ name.
+    ]
+
+    Person >> name: aName [
+        name := aName.
+    ]
+]
+Pour ce programme, j'ai rencontré des difficultés à me familiariser avec l'IDE de Pharo, mais j'ai utilisé les MOOC et les tutoriels disponibles en ligne pour me guider
+
+Pharo methods are usually small and readable. What rules are common to follow? Are there tools that show you violations of such rules?
+
+Règles courantes :
+•	Les méthodes doivent être petites et faire une seule chose.
+•	Les noms de méthodes doivent être explicites.
+•	Utilisation appropriée des messages (do:, collect:, etc.) pour manipuler les collections.
+Outils de vérification : Pharo propose des outils comme SmallLint pour vérifier les violations de style et les mauvaises pratiques dans le code.
+Exemple de violation de règle : Voici un exemple où le nom d'une méthode n'est pas clair et où elle fait trop de choses à la fois :
+
+Person >> doEverything [
+    Transcript show: 'Doing too much here'.
+    self name: 'Overloaded'.
+    ^ self.
+]
+
+Can you learn about cascades and block closures? How do you approach it?
+
+Cascades : Une cascade en Pharo permet d'envoyer plusieurs messages à un même objet de manière concise :
+
+person name: 'John'; age: 30; printOn: Transcript.
+
+Block closures : Les blocks sont des fermetures en Pharo et sont utilisés pour capturer du code que l’on peut exécuter plus tard :
+
+myBlock := [ :x | x * x ].	
+Transcript show: (myBlock value: 4).
+
