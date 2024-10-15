@@ -1,0 +1,77 @@
+COLLECTIONS:
+Une collection en Pharo est une structure de données qui regroupe des objets. Les collections servent à organiser et à manipuler des groupes d'objets de manière efficace. Elles permettent de stocker, parcourir et manipuler des groupes d’éléments de manière efficace 
+
+Array : un ensemble fixe d’éléments indexés 
+OrderedCollection : une collection où les éléments sont stockés dans un ordre spécifique 
+Set : une collection d'éléments uniques non ordonnés 
+Dictionary : une collection de paires clé-valeur
+
+Pharo propose plusieurs moyens d'itérer sur ses collections. Les méthodes courantes incluent :
+do::Parcourt chaque élément de la collection
+collect::Crée une nouvelle collection en appliquant un bloc de code à chaque élément 
+select:: Filtre les éléments en fonction d’un critère 
+reject:: Exclut les éléments correspondant à un critère 
+Sources d’information : La documentation de Pharo
+
+CONDITIONNELS:
+En Pharo, les conditionnels sont implémentés en envoyant des messages aux objets Boolean. Au lieu d’utiliser des structures de contrôle classiques comme if-else, on utilise des méthodes spécifiques :
+
+	•	ifTrue: : Exécute un bloc de code si l’expression booléenne est true.
+	•	ifFalse: : Exécute un bloc de code si l’expression booléenne est false.
+	•	ifTrue:ifFalse: : Exécute un bloc de code si l’expression est true et un autre bloc si elle est false.
+	•	ifFalse:ifTrue: : Variante où le bloc de code pour false est évalué en premier.
+
+Exemple de code
+
+| age |
+age := 20.
+
+age > 18 
+    ifTrue: [ Transcript show: 'You are an adult.'] 
+    ifFalse: [ Transcript show: 'You are a minor.’
+
+Contrairement à d’autres langages (comme Python, Java ou C) qui utilisent des structures if-else, en Pharo, les conditions sont des messages envoyés à des objets booléens (true ou false). Cela signifie que les expressions conditionnelles sont basées sur l’envoi de messages.
+
+Avantages :
+
+	•	Uniformité : Puisque tout est objet en Pharo, y compris les structures de contrôle, cela permet d’avoir une syntaxe uniforme et cohérente.
+	•	Expressivité : Le code peut être plus expressif et lisible, car les messages reflètent l’intention directe de ce que l’on veut accomplir.
+	•	Flexibilité : On peut facilement combiner ou composer des blocs de code en tant qu’arguments, offrant plus de possibilités pour écrire des expressions complexes.
+
+Inconvénients :
+
+	•	Courbe d’apprentissage : Cette approche peut paraître inhabituelle et déroutante pour ceux qui viennent de langages utilisant des structures de contrôle traditionnelles.
+	•	Verbose : Parfois, l’écriture de conditions simples peut sembler plus verbeuse par rapport à d’autres langages, rendant le code un peu plus long pour des cas simples.
+
+CLASSE:
+Object subclass: Person [
+    Person >> name [
+        ^ name.
+    ]
+
+    Person >> name: aName [
+        name := aName.
+    ]
+]
+Il ma fallu un peu de temps pour comprendre comment accéder aux classes, méthodes etc..
+
+Regles:
+Methode courtes et concises 
+Noms explicites 
+Respect de la cohérence
+Pas de duplication de code 
+
+Exemple de code qui enfreigne les règles:
+Methode trop longue :
+MyClass >> calculate [
+    | sum i |
+    sum := 0.
+    i := 1.
+    [ i <= 1000 ] whileTrue: [
+        sum := sum + i.
+        Transcript show: i asString; show: ' '.
+        i := i + 1.
+    ].
+    ^ sum
+]
+
