@@ -52,4 +52,5 @@ Now, in addition, you need to:
 
 ## Level 3
 ### More resources
-Use multiple kind of asteroids and explosions, use everything you want from here.
+Use multiple kind of asteroids and explosions, use everything you want from [here](https://github.com/ycorre/molecular/tree/master/res/action/characters).
+You will have to dig up the configuration of each sprite from [Level1.json](https://github.com/ycorre/molecular/blob/master/conf/Level1.json) and [Level2.json](https://github.com/ycorre/molecular/blob/master/conf/Level2.json).
