@@ -207,3 +207,30 @@ The destroyers attack from deep space but battlecruisers are located in a nebula
 5) Make a fleet of 10 cruisers attack a fleet of 3 battlecruisers.
 The cruisers attack from an asteroids fields but battlecruisers are located in deep space.
 6) Make a fleet of 50 fighters attack a fleet of 5 destroyers and 2 cruisers in an asteroid field.
+
+## Extra: variant with GUI and grid
+
+In this variant, you will model the grid to display and control fleets uwing Bloc.
+
+### Grid model and display
+
+- Model the grid: it has a size, and each fleet has a position
+- Assign a region of space to each grid cell
+- Assign a picture or a color to each region of space
+- When displaying the grid, each cell displays the color (or the picture) of its region
+
+### Fleet initialization and display
+- Initialize the grid with fleets at various positions
+- Display each fleet with a bloc element containing:
+    - a spaceship image (look [here](https://github.com/ogamespec/ogame-opensource/blob/master/download/use/OriginalSkin/graphics.ogame-cluster.net/ogame/game/gebaeude/207.gif))
+    - at the top-down of the bloc element, the number of spaceships contained in the fleet
+    - when passing the mouse over the block element, show a popover element with the fleet's details; the popover disappear when the mouse leaves the bloc element
+
+### Fleet control
+To select a fleet, click on a grid cell (origin) containing a fleet.
+Show a pane somewhere indicating the details of the selected fleet.
+To move the fleet, click on another grid cell (destination).
+
+If the destination cell contains another fleet, a space battle begins.
+Show the results of the space battle in a popup with statistics.
+
